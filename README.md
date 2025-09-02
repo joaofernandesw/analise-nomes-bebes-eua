@@ -36,8 +36,7 @@ A análise confirmou que eventos externos têm um impacto massivo e mensurável 
 
 O gráfico abaixo ilustra a popularidade do nome "Maddox". Antes de 2003, o nome era praticamente inexistente. Após a adoção de Maddox Jolie-Pitt, o nome explodiu em popularidade, provando a forte correlação entre a cultura de celebridades e as tendências de nomes.
 
-*(Para inserir o gráfico aqui, tire um print, salve como `maddox_timeline.png`, faça o upload para a pasta `imagens/` no seu repositório e use a seguinte linha:)*
-`![Linha do Tempo do Nome Maddox](imagens/maddox_timeline.jpg)`
+<img width="841" height="547" alt="image" src="https://github.com/user-attachments/assets/d3604ae2-319d-4e05-9b67-dda074a5d7d1" />
 
 ---
 
