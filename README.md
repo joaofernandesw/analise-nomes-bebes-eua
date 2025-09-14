@@ -43,7 +43,7 @@ O gráfico abaixo ilustra a popularidade do nome "Maddox". Antes de 2003, o nome
 ## 💻 Como Executar o Projeto
 
 1.  Clone este repositório: `git clone https://github.com/seu-usuario/analise-nomes-bebes-eua.git`
-2.  O código está no notebook `analise_nomes.ipynb` e pode ser executado em ambientes como Google Colab ou Jupyter Notebook.
+2.  O código está no notebook `analise-nomes-bebes-eua.ipynb` e pode ser executado em ambientes como Google Colab ou Jupyter Notebook.
 3.  Os dados originais não estão incluídos neste repositório, mas podem ser encontrados no [repositório de Wes McKinney](https://github.com/wesm/pydata-book/tree/3rd-edition/datasets/babynames), autor de "Python for Data Analysis". O notebook carrega os dados diretamente a partir do GitHub.
 
 ---
